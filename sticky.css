@@ -9,6 +9,13 @@ html,body{
     height: auto;
 }
 
+span.b {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+}
+
 .articles{
     width:90%; /*Takes 90% width from WebContainer*/
     height: auto;
