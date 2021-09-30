@@ -9,6 +9,12 @@ html,body{
     height: auto;
 }
 
+.fill {
+    overflow: hidden;
+    background-size: cover;
+    background-position: center;
+}
+
 span.b {
   display: inline-block;
   width: auto;
