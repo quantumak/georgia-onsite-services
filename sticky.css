@@ -39,10 +39,9 @@ body{
 }
 
 .center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 25em
+  margin: auto;
+  width: 50%;
+  padding: 10px;
 }
 
 .lcenter {
