@@ -11,9 +11,9 @@ html,body{
 
 span.b {
   display: inline-block;
-  width: 100px;
-  height: 100px;
-  padding: 5px;
+  width: auto;
+  height: auto;
+  
 }
 
 .articles{
